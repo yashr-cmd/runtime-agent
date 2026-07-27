@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Premain-Class: your.package.Agent
-Agent-Class: your.package.Agent
-Can-Redefine-Classes: true
-Can-Retransform-Classes: true
